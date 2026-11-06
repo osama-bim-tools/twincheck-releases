@@ -1,8 +1,7 @@
 {
-  "version": "1.1.1",
-  "setup_url": "https://github.com/osama-bim-tools/twincheck-releases/releases/download/v1.1.1/TwinCheckPro_Setup_1.1.1.exe",
+  "version": "1.1.0",
+  "setup_url": "https://github.com/osama-bim-tools/twincheck-releases/releases/download/v1.1.0/TwinCheckPro_Setup_1.1.0.exe",
   "notes": [
-    "Test line one",
-    "Test line two"
+    "First Twin Check PRO version: works without pyRevit"
   ]
 }
