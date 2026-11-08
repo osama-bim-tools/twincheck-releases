@@ -1,8 +1,9 @@
 {
-  "version": "1.2.0",
-  "setup_url": "https://github.com/osama-bim-tools/twincheck-releases/releases/download/v1.2.0/TwinCheckPro_Setup_1.2.0.exe",
+  "version": "1.2.1",
+  "setup_url": "https://github.com/osama-bim-tools/twincheck-releases/releases/download/v1.2.1/TwinCheckPro_Setup_1.2.1.exe",
   "notes": [
-    "Activation code: each code works on one PC",
-    "Your code's end date is shown at the bottom of the Home window"
+    "The Guide is now in English and Arabic",
+    "Revisions: State and Comment for each change, its own Excel file with filters",
+    "Model check: pick the storey for any sheet, and reopen the last results"
   ]
 }
